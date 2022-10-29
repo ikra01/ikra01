@@ -1,5 +1,7 @@
 # Hi there, I'm Ikra 👋
 
+### Check out my stats!
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ikra01&show_icons=true&theme=radical" />
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikra01" /> -->
 
@@ -8,6 +10,9 @@
 
 <!--Compact design: -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
 
 
 <!--

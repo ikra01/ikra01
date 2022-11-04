@@ -7,7 +7,7 @@
 
 
 &nbsp;
-<h2 margin-top="5px"> 📋  Languages</h2>
+<h2 #> 📋  Languages</h2>
 <h4>Skilled in: </h4>
 <img alt="JavaScrit" align="left"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img alt="HTML 5"  align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">

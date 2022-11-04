@@ -3,18 +3,12 @@
 ### Check out my stats! -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ikra01&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=3&hide=typescript,astro,rust,go,glsl,shell,assembly,objective-c,python" />
+<img width="420px" margin-top="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=3&hide=typescript,astro,rust,go,glsl,shell,assembly,objective-c,python" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikra01" /> -->
 
-<!-- Not compact: -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--Compact design: -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-<h2> 📋  Languages</h2>
+&nbsp;
+<h2 margin-top="5px"> 📋  Languages</h2>
 <h4>Skilled in: </h4>
 <img alt="JavaScrit" align="left"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img alt="HTML 5"  align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
